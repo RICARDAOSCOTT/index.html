@@ -10,7 +10,16 @@ body{
 }
 p{
   text-align:center;
+  font-size:2 opx;
+}
+#missao{
+font-size:30px;
+}
+#banner{
+width:100%;
+}h1{
 }
 em strong{
   color:orange;
 }
+ 

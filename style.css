@@ -2,9 +2,11 @@
   margin:0:
 padding:0;
 }
-h1{
-text-align:enter
+.titulo.principal{
+padding-left: 20px;
 }
+.titulo-secundario{
+text-align:center;
 body{
   background:#cccccc
 }
@@ -18,7 +20,7 @@ beneficios{
 background: #ffffff;
 podding:20px;
 }
-h2{
+
 text-align:center;
 }
 ul{
@@ -44,5 +46,4 @@ width:100%;
 em strong{
   color:orange;
 }
-
  

@@ -32,3 +32,12 @@ produtos li{
   border:2px solid #000000;
   border-radius:10px;
 }
+produtos li:hover{
+border-color:green;
+}
+produtos:active{
+border-color:red;
+}
+produtos li:hover h2{
+font-size:34px;
+}

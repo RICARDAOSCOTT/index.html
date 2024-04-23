@@ -1,49 +1,61 @@
-*{
-  margin:0:
-padding:0;
-}
-.titulo.principal{
-padding-left: 20px;
-}
-.titulo-secundario{
-text-align:center;
-body{
-  background:#cccccc
-}
-principal{
-background: #cccccc
-podding: 30px;
-itens{
-font-style: italic;
-}
-beneficios{
-background: #ffffff;
-podding:20px;
+* {
+    margin: 0;
+    padding: 0;
 }
 
-text-align:center;
+body {}
+
+#banner {
+    width: 100%;
 }
-ul{
-display:inline-block;
-vertical-align:top;
-width:20%;
-margin-right:15%;
+
+.pricipal {
+    background: #CCCCCC;
+    podding: 30px
 }
-imagem-beneficios{
-width:50%
 }
-p{
-text-align:center;
-font-size:2 opx;
+
+.titulo-principal {
+    padding-left: 20px;
 }
-#missao{
-font-size:30px;
+
+.titulo-secundario {
+    text-align: center;
 }
-#banner{
-width:100%;
-}h1{
+
+em strong {
+    color: #914803;
 }
-em strong{
-  color:orange;
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+#missao {
+    font-size: 30px;
+}
+
+.itens {
+    fonte-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    podding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block vertical-align: top;
+    width: 20%;
+    margin_-right: 15%;
+}
+
+.imagem-beneficios {
+    width: 50%
 }
  

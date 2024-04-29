@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-body {}
+body  {}
 
 #banner {
     width: 100%;
@@ -11,8 +11,7 @@ body {}
 
 .pricipal {
     background: #CCCCCC;
-    podding: 30px
-}
+    padding: 30px
 }
 
 .titulo-principal {
@@ -42,7 +41,7 @@ p {
 
 .beneficios {
     background: #FFFFFF;
-    podding: 20px;
+    padding: 20px;
 }
 
 h2 {

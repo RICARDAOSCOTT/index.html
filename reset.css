@@ -48,7 +48,7 @@ table {
 }
 header{
 	background=#bbbbbb;
-	podding:20px 0;
+	padding:20px 0;
 }
 .caixa{
 	position:relative;
@@ -56,7 +56,7 @@ header{
 	margin: 0 auto;
 }
 nav{
-position:absolute;
+position: absolute;
 	top:110px;
 right:0;
 }

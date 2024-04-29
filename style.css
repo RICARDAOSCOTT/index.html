@@ -36,7 +36,7 @@ p {
 }
 
 .itens {
-    fonte-style: italic;
+    font-style: italic;
 }
 
 .beneficios {
@@ -49,12 +49,13 @@ h2 {
 }
 
 ul {
-    display: inline-block vertical-align: top;
+    display: inline-block;
+    vertical-align: top;
     width: 20%;
-    margin_-right: 15%;
-}
+    margin-right: 15%;
+   }
 
 .imagem-beneficios {
-    width: 50%
+    width: 50%;
 }
  

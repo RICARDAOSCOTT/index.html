@@ -109,3 +109,63 @@ td, th {
     border: 1px solid #000000;
     padding: 8px 15px;
 }
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body
+
+#banner {
+    width: 100%;
+}
+
+.pricipal {
+    background: #CCCCCC;
+    padding: 30px
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-secundario {
+    text-align: center;
+}
+
+em strong {
+    color: #914803;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+#missao {
+    font-size: 30px;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+   }
+
+.imagem-beneficios {
+    width: 50%;
+}
